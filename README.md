@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Alex (amelanio)
 
-<!--
-**amelanio/amelanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Apasionado por la **IA, la programación y la automatización**.  
+💡 Actualmente trabajando en proyectos de:
+- Python (automatización, generación de PDF, EAN, etc.)
+- R (estadística y dataframes)
+- 🚐 Camperización y proyectos creativos.
 
-Here are some ideas to get you started:
+📚 Estudiante en el **Bootcamp de IA de KeepCoding**.  
+🎯 Objetivo: Convertirme en **consultor en IA y automatización para empresas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías que uso
+- Python, R, SQL
+- Pandas, NumPy, Matplotlib
+- Git & GitHub
+- Flutter, Xcode
+- VS Code
+
+---
+
+## 📂 Proyectos destacados
+- [📊 Practica Álgebra](https://github.com/amelanio/practica_algebra)
+- [🤖 Connecta](https://github.com/amelanio/connecta)
+
+---
+
+## 📫 Cómo contactarme
+- ✉️ Email: amelanio@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/amelanio](#)
