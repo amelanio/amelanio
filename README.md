@@ -25,7 +25,13 @@ Soy un **explorador tecnológico** estudiando **Inteligencia Artificial** en Kee
 > 🌱 Cada proyecto refleja mi proceso de aprendizaje y mi forma de pensar problemas desde distintas perspectivas.
 
 ---
+## 🎯 Lo que me impulsa ahora
+- Profundizar en **IA aplicada**, con foco en proyectos reales.  
+- Mejorar mis habilidades en **visualización de datos y estadísticas avanzadas**.  
+- Construir un portafolio que refleje **versatilidad y pensamiento crítico**.  
+- Explorar ideas que unan **tecnología, diseño y storytelling**.
 
+---
 ## 🛠 Tecnologías que manejo
 
 <p align="center">
@@ -74,13 +80,7 @@ Soy un **explorador tecnológico** estudiando **Inteligencia Artificial** en Kee
 
 ---
 
-## 🎯 Lo que me impulsa ahora
-- Profundizar en **IA aplicada**, con foco en proyectos reales.  
-- Mejorar mis habilidades en **visualización de datos y estadísticas avanzadas**.  
-- Construir un portafolio que refleje **versatilidad y pensamiento crítico**.  
-- Explorar ideas que unan **tecnología, diseño y storytelling**.
 
----
 
 ## 📊 GitHub en acción
 <p align="center">
@@ -99,6 +99,8 @@ Soy un **explorador tecnológico** estudiando **Inteligencia Artificial** en Kee
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+</p>
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=120&section=footer)
