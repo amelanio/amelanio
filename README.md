@@ -26,12 +26,12 @@
 
 ## 🛠 Tecnologías que manejo
 
-
 <p align="center">
-  <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,flutter,git,docker,postgresql" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  
   <!-- Datos y análisis -->
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
@@ -63,6 +63,8 @@
   <!-- Testing -->
   <img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/-Unittest-0A9EDC?logo=python&logoColor=white" alt="Unittest"/>
+</p>
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </p>
 
