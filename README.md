@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/-Unittest-0A9EDC?logo=python&logoColor=white" alt="Unittest"/>
 </p>
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelanio&show_icons=true&theme=tokyonight)
 
 
 ---
