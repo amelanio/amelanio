@@ -5,23 +5,14 @@
 
 
 # 👋 Hola, soy Alex
-
-✨ Curioso incansable al que le encanta **crear, aprender y experimentar**.  
-🎨 Me gusta dar forma a ideas locas o imposibles, ya sea con **código, datos o diseños** que conecten con las personas.  
-🚀 Me atraen los **retos grandes y difíciles**, porque ahí es donde más me divierto y aprendo.  
-🔥 Soy constante, un poco cabezota cuando toca, y no paro hasta encontrar una solución que funcione y tenga **impacto real**.  
-
+✨ **Creador incansable** que une **código, datos y diseño** para transformar ideas en soluciones impactantes.  
+🚀 Apasionado por la **IA, visualización de datos y proyectos con narrativa**.
 ---
 
 ---
 
-## 🌟 Un poco sobre mí
-- 🤖 Estudiando **Inteligencia Artificial** en el Bootcamp de KeepCoding.  
-- 🧵 Experiencia práctica en **producción y logística**, gestionando redes de distribución y productos con alto volumen.  
-- 🎲 Creativo e inquieto, siempre en busca de unir **tecnología y narrativa**, tanto en apps como en juegos.  
-- 🌍 Apasionado por **mapas interactivos, datos geoespaciales y visualizaciones** que cuentan historias.  
-- 🚐 Aventurero: me inspiro en los viajes y la exploración para mis proyectos.
-
+## 🌟 Sobre mí
+Soy un **explorador tecnológico** estudiando **Inteligencia Artificial** en KeepCoding. Con experiencia en **producción y logística**, ahora combino código, datos y creatividad para construir **apps, mapas interactivos y visualizaciones** que cuentan historias. Me inspiran los retos grandes, los viajes y el poder de la tecnología para conectar ideas con personas.
 ---
 
 ## 🚀 Algunos proyectos
