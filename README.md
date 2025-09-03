@@ -9,24 +9,19 @@
 🚀 Apasionado por la **IA, visualización de datos y proyectos con narrativa**.
 ---
 
----
 
 ## 🌟 Sobre mí
 Soy un **explorador tecnológico** estudiando **Inteligencia Artificial** en KeepCoding. Con experiencia en **producción y logística**, ahora combino código, datos y creatividad para construir **apps, mapas interactivos y visualizaciones** que cuentan historias. Me inspiran los retos grandes, los viajes y el poder de la tecnología para conectar ideas con personas.
 ---
 
-## 🚀 Algunos proyectos
-| Proyecto | Qué lo hace especial | Tech |
-|-----------|---------------------|------|
-| **Wallaclon** | App estilo Wallapop, creada para explorar UI/UX y escalabilidad. | Flutter, Firebase |
-| **Automatizaciones PyME** | Soluciones que simplifican tareas repetitivas y ahorran tiempo. | Python, APIs |
-| **Mapa Camper POIs** | Visualización de datos OSM en mapas interactivos. | Python, Folium |
-| **Kit Supervivencia Mental** | Juego para mantener la moral alta durante apagones. | Diseño, Python |
-| **Estadística con R** | Proyectos prácticos de análisis y visualización. | R, ggplot2 |
+## 🚀 Proyectos Destacados
 
-| Proyecto | Qué lo hace especial | Tech | Demo/Repo |
-|-----------|---------------------|------|-----------|
-| [**Wallaclon**](https://github.com/amelanio/wallaclon) | App estilo Wallapop, creada para explorar UI/UX y escalabilidad. | Flutter, Firebase | [Demo](#) |
+| Proyecto | Descripción | Tech | Demo / Repo |
+|----------|-------------|------|-------------|
+| [**Wallaclon**](https://github.com/amelanio/wallaclon) | 📱 App estilo Wallapop, creada para explorar **UI/UX** y pruebas de **escalabilidad**. | Flutter · Firebase | [🎥 Demo](#) · [💻 Repo](https://github.com/amelanio/wallaclon) |
+| [**Kit de Supervivencia Mental**](https://github.com/amelanio/kit-supervivencia) | 🎲 Juego de mesa con humor ácido, diseñado para mantener la moral en situaciones extremas. | Python · ReportLab | [📄 Página](#) |
+| [**SILAMINO**](https://github.com/amelanio/silamino) | 🧩 Juego narrativo y estratégico con mecánicas únicas. | Python · JSON · FPDF | [🎮 Demo](#) |
+| [**Gestión Comercial App**](https://github.com/amelanio/gestion-comercial) | 🧾 App para facturación y gestión de productos con generación automática de **EAN-13**. | Python · Flet · ReportLab | [💻 Repo](https://github.com/amelanio/gestion-comercial) |
 
 > 🌱 Cada proyecto refleja mi proceso de aprendizaje y mi forma de pensar problemas desde distintas perspectivas.
 
