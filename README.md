@@ -61,8 +61,7 @@ Me motiva el desafío de **resolver problemas reales** con soluciones creativas 
 - Explorar ideas que unan **tecnología, diseño y storytelling**.
 
 ---
-- ✉️ Email: amelanio@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/amelanio](#)
+
 ## 🌐 Conecta conmigo
 <p align="center">
   <a href="mailto:amelanio@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
