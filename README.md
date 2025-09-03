@@ -24,6 +24,19 @@
 
 ---
 
+## 🚀 Algunos proyectos
+| Proyecto | Qué lo hace especial | Tech |
+|-----------|---------------------|------|
+| **Wallaclon** | App estilo Wallapop, creada para explorar UI/UX y escalabilidad. | Flutter, Firebase |
+| **Automatizaciones PyME** | Soluciones que simplifican tareas repetitivas y ahorran tiempo. | Python, APIs |
+| **Mapa Camper POIs** | Visualización de datos OSM en mapas interactivos. | Python, Folium |
+| **Kit Supervivencia Mental** | Juego para mantener la moral alta durante apagones. | Diseño, Python |
+| **Estadística con R** | Proyectos prácticos de análisis y visualización. | R, ggplot2 |
+
+> 🌱 Cada proyecto refleja mi proceso de aprendizaje y mi forma de pensar problemas desde distintas perspectivas.
+
+---
+
 ## 🛠 Tecnologías que manejo
 
 <p align="center">
@@ -72,16 +85,11 @@
 
 ---
 
-## 🚀 Algunos proyectos
-| Proyecto | Qué lo hace especial | Tech |
-|-----------|---------------------|------|
-| **Wallaclon** | App estilo Wallapop, creada para explorar UI/UX y escalabilidad. | Flutter, Firebase |
-| **Automatizaciones PyME** | Soluciones que simplifican tareas repetitivas y ahorran tiempo. | Python, APIs |
-| **Mapa Camper POIs** | Visualización de datos OSM en mapas interactivos. | Python, Folium |
-| **Kit Supervivencia Mental** | Juego para mantener la moral alta durante apagones. | Diseño, Python |
-| **Estadística con R** | Proyectos prácticos de análisis y visualización. | R, ggplot2 |
-
-> 🌱 Cada proyecto refleja mi proceso de aprendizaje y mi forma de pensar problemas desde distintas perspectivas.
+## 🎯 Lo que me impulsa ahora
+- Profundizar en **IA aplicada**, con foco en proyectos reales.  
+- Mejorar mis habilidades en **visualización de datos y estadísticas avanzadas**.  
+- Construir un portafolio que refleje **versatilidad y pensamiento crítico**.  
+- Explorar ideas que unan **tecnología, diseño y storytelling**.
 
 ---
 
@@ -93,13 +101,6 @@
 
 ---
 
-## 🎯 Lo que me impulsa ahora
-- Profundizar en **IA aplicada**, con foco en proyectos reales.  
-- Mejorar mis habilidades en **visualización de datos y estadísticas avanzadas**.  
-- Construir un portafolio que refleje **versatilidad y pensamiento crítico**.  
-- Explorar ideas que unan **tecnología, diseño y storytelling**.
-
----
 
 ## 🌐 Conecta conmigo
 <p align="center">
