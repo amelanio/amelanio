@@ -25,6 +25,8 @@
 ---
 
 ## 🛠 Tecnologías que manejo
+![Tech Stack](https://skillicons.dev/icons?i=python,r,flutter,git,docker,postgresql)
+
 <p align="center">
   <!-- Datos y análisis -->
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
