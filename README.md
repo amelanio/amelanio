@@ -12,7 +12,6 @@ Me motiva el desafío de **resolver problemas reales** con soluciones creativas 
 
 ## 🌟 Un poco sobre mí
 - 🤖 Estudiando **Inteligencia Artificial** en el Bootcamp de KeepCoding.  
-- 💻 **Más de 10 años desarrollando soluciones tecnológicas**, incluyendo una app en **C#** para gestionar devoluciones con **PDAs**, mejorando la logística y eficiencia en procesos internos.  
 - 🧵 Experiencia práctica en **producción y logística**, gestionando redes de distribución y productos con alto volumen.  
 - 🎲 Creativo e inquieto, siempre en busca de unir **tecnología y narrativa**, tanto en apps como en juegos.  
 - 🌍 Apasionado por **mapas interactivos, datos geoespaciales y visualizaciones** que cuentan historias.  
@@ -22,14 +21,39 @@ Me motiva el desafío de **resolver problemas reales** con soluciones creativas 
 
 ## 🛠 Tecnologías que manejo
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <!-- Datos y análisis -->
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+
+  <!-- Machine Learning & AI -->
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+
+  <!-- Automatización -->
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/-BeautifulSoup-3b7d44?logo=python&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/-Requests-00599C?logo=python&logoColor=white" alt="Requests"/>
+  <img src="https://img.shields.io/badge/-ReportLab-4B8BBE?logo=python&logoColor=white" alt="ReportLab"/>
+  <img src="https://img.shields.io/badge/-FPDF-4B8BBE?logo=python&logoColor=white" alt="FPDF"/>
+  <img src="https://img.shields.io/badge/-Barcode-4B8BBE?logo=python&logoColor=white" alt="Barcode"/>
+
+  <!-- Desarrollo y web -->
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/-Flet-02569B?logo=python&logoColor=white" alt="Flet"/>
+
+  <!-- Mapas y geo -->
+  <img src="https://img.shields.io/badge/-Folium-77B829?logo=python&logoColor=white" alt="Folium"/>
+  <img src="https://img.shields.io/badge/-OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=white" alt="OSM"/>
+
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/-Unittest-0A9EDC?logo=python&logoColor=white" alt="Unittest"/>
 </p>
+
 
 ---
 
