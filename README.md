@@ -14,14 +14,13 @@
 Soy un **explorador tecnológico** estudiando **Inteligencia Artificial** en KeepCoding. Con experiencia en **producción y logística**, ahora combino código, datos y creatividad para construir **apps, mapas interactivos y visualizaciones** que cuentan historias. Me inspiran los retos grandes, los viajes y el poder de la tecnología para conectar ideas con personas.
 ---
 
-## 🚀 Proyectos Destacados
-
 | Proyecto | Descripción | Tech | Demo / Repo |
 |----------|-------------|------|-------------|
-| [**Wallaclon**](https://github.com/amelanio/wallaclon) | 📱 App estilo Wallapop, creada para explorar **UI/UX** y pruebas de **escalabilidad**. | Flutter · Firebase | [🎥 Demo](#) · [💻 Repo](https://github.com/amelanio/wallaclon) |
-| [**Kit de Supervivencia Mental**](https://github.com/amelanio/kit-supervivencia) | 🎲 Juego de mesa con humor ácido, diseñado para mantener la moral en situaciones extremas. | Python · ReportLab | [📄 Página](#) |
-| [**SILAMINO**](https://github.com/amelanio/silamino) | 🧩 Juego narrativo y estratégico con mecánicas únicas. | Python · JSON · FPDF | [🎮 Demo](#) |
-| [**Gestión Comercial App**](https://github.com/amelanio/gestion-comercial) | 🧾 App para facturación y gestión de productos con generación automática de **EAN-13**. | Python · Flet · ReportLab | [💻 Repo](https://github.com/amelanio/gestion-comercial) |
+| [**ML Playground**](https://github.com/amelanio/ml-playground) | 🤖 Experimentos de **Machine Learning** con clasificación, clustering y reducción de dimensionalidad (PCA, SVD). | Python · scikit-learn · Pandas | [💻 Repo](https://github.com/amelanio/ml-playground) |
+| [**ChatBot Pro**](https://github.com/amelanio/chatbot-pro) | 💬 **Chatbot conversacional** integrado con IA para atención al cliente en tiempo real. | Python · NLP · Flask | [🤖 Demo](#) |
+| [**Wallaclon**](https://github.com/amelanio/wallaclon) | 📱 App estilo Wallapop para explorar **UI/UX** y escalabilidad en móviles. | Flutter · Firebase | [🎥 Demo](#) · [💻 Repo](https://github.com/amelanio/wallaclon) |
+| [**Tapay**](https://github.com/amelanio/tapay) | 🍽️ SaaS para gestión de **restaurantes**: pedidos digitales, reservas y pagos integrados. | Flutter · Firebase · Python API | [🍴 Demo](#) |
+| [**ERP-Lite**](https://github.com/amelanio/erp-lite) | 🧾 App ligera de **gestión comercial y facturación** con generación automática de EAN-13. | Python · Flet · ReportLab | [💻 Repo](https://github.com/amelanio/erp-lite) |
 
 > 🌱 Cada proyecto refleja mi proceso de aprendizaje y mi forma de pensar problemas desde distintas perspectivas.
 
