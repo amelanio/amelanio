@@ -60,9 +60,8 @@
   <img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/-Unittest-0A9EDC?logo=python&logoColor=white" alt="Unittest"/>
 </p>
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelanio&show_icons=true&theme=tokyonight)
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelanio&layout=compact&theme=tokyonight)
 
 ---
 
