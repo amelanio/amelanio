@@ -24,6 +24,10 @@ Soy un **explorador tecnológico** estudiando **Inteligencia Artificial** en Kee
 | **Kit Supervivencia Mental** | Juego para mantener la moral alta durante apagones. | Diseño, Python |
 | **Estadística con R** | Proyectos prácticos de análisis y visualización. | R, ggplot2 |
 
+| Proyecto | Qué lo hace especial | Tech | Demo/Repo |
+|-----------|---------------------|------|-----------|
+| [**Wallaclon**](https://github.com/amelanio/wallaclon) | App estilo Wallapop, creada para explorar UI/UX y escalabilidad. | Flutter, Firebase | [Demo](#) |
+
 > 🌱 Cada proyecto refleja mi proceso de aprendizaje y mi forma de pensar problemas desde distintas perspectivas.
 
 ---
