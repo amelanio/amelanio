@@ -28,7 +28,10 @@
 
 
 <p align="center">
-  ![Tech Stack](https://skillicons.dev/icons?i=python,r,flutter,git,docker,postgresql)
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,flutter,git,docker,postgresql" alt="Tech Stack" />
+</p>
+
   <!-- Datos y análisis -->
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
