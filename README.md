@@ -4,10 +4,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=180&section=header&text=Alex%20Martín%20Peña&fontSize=35&fontColor=ffffff&fontAlignY=35)
 
 # 👋 Bienvenido
-Soy  **Alex**, un curioso incansable al que le encanta crear, aprender y experimentar.
-Disfruto de dar forma a ideas locas o imposibles, ya sea con código, datos o diseños.
-Me atraen los retos grandes y difíciles, porque ahí es donde más me divierto y aprendo.
-Soy constante, cabezota cuando toca, y no paro hasta encontrar una solución que funcione y tenga impacto real.
+-Soy  **Alex**, un curioso incansable al que le encanta crear, aprender y experimentar.
+-Disfruto de dar forma a ideas locas o imposibles, ya sea con código, datos o diseños.
+-Me atraen los retos grandes y difíciles, porque ahí es donde más me divierto y aprendo.
+-Soy constante, cabezota cuando toca, y no paro hasta encontrar una solución que funcione y tenga impacto real.
 ---
 
 ## 🌟 Un poco sobre mí
